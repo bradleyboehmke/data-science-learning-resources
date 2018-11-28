@@ -1,5 +1,10 @@
 # Data Science Resources
 
+## R Programming
+
+- [R for Data Science](https://r4ds.had.co.nz/) (Book)
+- [Advanced R](https://adv-r.hadley.nz/) (Book)
+
 ## Machine Learning 
 
 ### General 
