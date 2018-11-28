@@ -34,8 +34,19 @@
 - [Feature Engineering for Machine Learning](http://shop.oreilly.com/product/0636920049081.do) (Book)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (Book)
 
+### Feature Selection
+
+- [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11/v36i11.pdf) (Paper)
+
 ### Machine Learning Interpretability
 
 - [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 - [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (Book)
+- [Visualizing the Feature Importance for Black Box Models](https://arxiv.org/abs/1804.06620) (Paper)
+- [A Simple and Effective Model-Based Variable Importance Measure](https://arxiv.org/abs/1805.04755) (Paper)
+- [Peeking Inside the Black Box: Visualizing Statistical Learning with Plots of Individual Conditional Expectation](https://arxiv.org/abs/1309.6392) (Paper)
+- [pdp: An R Package for Constructing Partial Dependence Plots](https://journal.r-project.org/archive/2017/RJ-2017-016/RJ-2017-016.pdf) (Paper)
+- ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (Paper)
+- [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
+- [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
