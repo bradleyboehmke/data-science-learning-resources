@@ -15,6 +15,10 @@
 - [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894) (Book)
 - [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 
+### Unsupervised Modeling
+
+- [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
+
 ### Gradient Boosting Machines
 
 - [Trevor Hastie - Gradient Boosting & Random Forests at H2O World 2014](https://koalaverse.github.io/machine-learning-in-R/%20//www.youtube.com/watch?v=wPqtzj5VZus&index=16&list=PLNtMya54qvOFQhSZ4IKKXRbMkyL%20Mn0caa) (YouTube)
