@@ -4,10 +4,11 @@
 
 ### General 
 
-- [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
-- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/)
-- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894)
+- [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) (Book)
+- [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) (Book)
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book)
+- [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894) (Book)
+- [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 
 ### Gradient Boosting Machines
 
@@ -24,6 +25,9 @@
 - [Machine Learning Benchmarks and Random Forest Regression](https://cloudfront.escholarship.org/dist/prd/content/qt35x3v9t4/qt35x3v9t4.pdf) (Paper)
 
 ### Feature Engineering
+
+- [Feature Engineering for Machine Learning](http://shop.oreilly.com/product/0636920049081.do) (Book)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (Book)
 
 ### Machine Learning Interpretability
 
