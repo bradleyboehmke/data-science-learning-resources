@@ -23,6 +23,11 @@
 - [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
 - [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (blog post)
 
+### Natural Language Processing / Text Mining
+
+- [Text Mining with R](https://www.tidytextmining.com/) (Book)
+- [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (Paper)
+
 ### Tuning
 
 - [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/pdf/1804.03515.pdf) (Paper)
