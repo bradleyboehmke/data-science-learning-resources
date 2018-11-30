@@ -59,3 +59,8 @@
 - ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (Paper)
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
 - [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
+
+### Auto ML
+
+- [A Review of Automatic Selection Methods for Machine Learning Algorithms and Hyperparameter Values](http://pages.cs.wisc.edu/~gangluo/automatic_selection_review.pdf) (Paper)
+- [Learning Multiple Defaults for Machine Learning Algorithms](https://arxiv.org/abs/1811.09409) (Paper)
