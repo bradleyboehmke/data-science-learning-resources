@@ -13,7 +13,7 @@
 
 ### Python
 
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
 
 ### Version Control
 
