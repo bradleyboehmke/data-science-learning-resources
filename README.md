@@ -1,6 +1,34 @@
-# Machine Learning Resources
+# Data Science Learning Resources
 
-## General 
+## Programming
+
+### General
+
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1544653964&sr=8-1&keywords=the+pragmatic+programmer) (Book)
+
+### R
+
+- [R for Data Science](https://r4ds.had.co.nz/) (Book)
+- [Advanced R](https://adv-r.hadley.nz/) (Book)
+
+### Python
+
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
+
+### Version Control
+
+- [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Paper)
+- [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
+- [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Website tutorial)
+
+### Style Guide & Readable Code
+
+- [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques-ebook/dp/B0064CZ1XE) (Book)
+- [The Tidyverse Style Guide](https://style.tidyverse.org/) (Online Book)
+
+## Machine Learning
+
+### General 
 
 - [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) (Book)
 - [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) (Book)
@@ -8,17 +36,17 @@
 - [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894) (Book)
 - [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 
-## Unsupervised Modeling
+### Unsupervised Modeling
 
 - [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
 
 
 
-## Random Forests
+### Random Forests
 
 - [Random Forests - Leo Breiman's original research paper](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf) (Paper)
 
-## Gradient Boosting Machines
+### Gradient Boosting Machines
 
 - [Trevor Hastie - Gradient Boosting & Random Forests at H2O World 2014](https://koalaverse.github.io/machine-learning-in-R/%20//www.youtube.com/watch?v=wPqtzj5VZus&index=16&list=PLNtMya54qvOFQhSZ4IKKXRbMkyL%20Mn0caa) (YouTube)
 - [Trevor Hastie - Data Science of GBM (2013)](http://www.slideshare.net/0xdata/gbm-27891077) (slides)
@@ -26,28 +54,28 @@
 - [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
 - [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (blog post)
 
-## Natural Language Processing / Text Mining
+### Natural Language Processing / Text Mining
 
 - [Text Mining with R](https://www.tidytextmining.com/) (Book)
 - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (Paper)
 
-## Tuning
+### Tuning
 
 - [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/pdf/1804.03515.pdf) (Paper)
 - [Tunability: Importance of Hyperparameters of Machine Learning Algorithms](https://arxiv.org/pdf/1802.09596.pdf) (Paper)
 - [Machine Learning Benchmarks and Random Forest Regression](https://cloudfront.escholarship.org/dist/prd/content/qt35x3v9t4/qt35x3v9t4.pdf) (Paper)
 - [Random Search for Hyperparameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf) (Paper)
 
-## Feature Engineering
+### Feature Engineering
 
 - [Feature Engineering for Machine Learning](http://shop.oreilly.com/product/0636920049081.do) (Book)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (Book)
 
-## Feature Selection
+### Feature Selection
 
 - [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11/v36i11.pdf) (Paper)
 
-## Machine Learning Interpretability
+### Machine Learning Interpretability
 
 - [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 - [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
