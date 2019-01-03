@@ -19,7 +19,7 @@
 
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Paper)
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
-- [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Website tutorial)
+- [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Online tutorial)
 
 ### Style Guide & Readable Code
 
@@ -40,7 +40,10 @@
 
 - [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
 
+### A/B Testing
 
+- [Multi-armed Bandit](https://support.google.com/analytics/answer/2844870?hl=en&ref_topic=1745207) (Online tutorial)
+- [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
 
 ### Random Forests
 
