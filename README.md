@@ -42,6 +42,7 @@
 
 ### A/B Testing
 
+- [Lessons from Running Thoursands of A/B Tests](https://exp-platform.com/Documents/2014-10-11MITCodeKohaviExP.pdf) (Online presentation with many references)
 - [Multi-armed Bandit](https://support.google.com/analytics/answer/2844870?hl=en&ref_topic=1745207) (Online tutorial)
 - [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
 
