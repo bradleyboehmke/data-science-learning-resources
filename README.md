@@ -15,6 +15,15 @@
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
 
+### Functional Programming
+
+- [An Introduction to the Basic Principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84) (Online article)
+- [R for Data Science, Ch. 21](https://r4ds.had.co.nz/iteration.html) (Book)
+- [Advanced R, Ch. 9](https://adv-r.hadley.nz/functionals.html) (Book)
+- [Jenny Bryan's __purrr__ tutorials](https://jennybc.github.io/purrr-tutorial/) (Online tutorial)
+- [Foundations of Functional Programming with purrr](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr) (DataCamp)
+- [Intermediate Functional Programming with __purrr__](https://www.datacamp.com/courses/intermediate-functional-programming-with-purrr) (DataCamp)
+
 ### Version Control
 
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Paper)
