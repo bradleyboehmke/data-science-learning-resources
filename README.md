@@ -103,7 +103,12 @@
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
 - [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
 
-## Auto ML
+### Auto ML
 
 - [A Review of Automatic Selection Methods for Machine Learning Algorithms and Hyperparameter Values](http://pages.cs.wisc.edu/~gangluo/automatic_selection_review.pdf) (Paper)
 - [Learning Multiple Defaults for Machine Learning Algorithms](https://arxiv.org/abs/1811.09409) (Paper)
+
+### Benchmarking
+
+- [The Design and Analysis of Benchmark Experiments](https://www.jstor.org/stable/pdf/27594139.pdf) (Paper)
+- [Szilard Pafka's ML Benchmarking Research](https://github.com/szilard/benchm-ml) (GitHub resources)
