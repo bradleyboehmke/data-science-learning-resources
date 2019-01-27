@@ -114,3 +114,7 @@
 
 - [The Design and Analysis of Benchmark Experiments](https://www.jstor.org/stable/pdf/27594139.pdf) (Paper)
 - [Szilard Pafka's ML Benchmarking Research](https://github.com/szilard/benchm-ml) (GitHub resources)
+
+### Resampling Procedures
+
+= [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
