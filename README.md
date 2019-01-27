@@ -117,4 +117,4 @@
 
 ### Resampling Procedures
 
-= [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
+- [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
