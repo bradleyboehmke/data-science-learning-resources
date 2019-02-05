@@ -91,11 +91,12 @@
 ### Feature Selection
 
 - [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11/v36i11.pdf) (Paper)
+- [APM: Ch. 19 An Introduction to Feature Selection](http://appliedpredictivemodeling.com/) (Book)
 
 ### Machine Learning Interpretability
 
-- [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
-- [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources) (GitHub resources)
+- [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability) (GitHub resources)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (Book)
 - [Visualizing the Feature Importance for Black Box Models](https://arxiv.org/abs/1804.06620) (Paper)
 - [A Simple and Effective Model-Based Variable Importance Measure](https://arxiv.org/abs/1805.04755) (Paper)
@@ -104,6 +105,7 @@
 - ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (Paper)
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
 - [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
+- [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909) (Paper)
 
 ### Auto ML
 
