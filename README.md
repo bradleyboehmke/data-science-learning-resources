@@ -106,6 +106,7 @@
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
 - [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
 - [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909) (Paper)
+- [Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269) (Paper)
 
 ### Auto ML
 
