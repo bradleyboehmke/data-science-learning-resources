@@ -59,6 +59,9 @@
 - [Multi-armed Bandit](https://support.google.com/analytics/answer/2844870?hl=en&ref_topic=1745207) (Online tutorial)
 - [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
 
+### Multivariate Adaptive Regression Splines
+- [Notes on the __earth__ package](http://www.milbo.org/doc/earth-notes.pdf) (Paper)
+
 ### Random Forests
 
 - [Random Forests - Leo Breiman's original research paper](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf) (Paper)
