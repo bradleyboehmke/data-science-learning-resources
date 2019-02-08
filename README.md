@@ -47,7 +47,7 @@
 
 ### Unsupervised Modeling
 
-- [ISLR: Ch. 10.3 Clustering Methods](http://www-bcf.usc.edu/~gareth/ISL/) (Book)
+- [ISLR: Ch. 10.3 Clustering Methods](http://www-bcf.usc.edu/~gareth/ISL/) (Book chapter)
 - [A K-Means Clustering Algorithm](https://www.jstor.org/stable/pdf/2346830.pdf?casa_token=DyTW0ZLNC4gAAAAA:VNX2TGwDfcs5foMa96ZxnOM2mjaQU1WuCOLL8qF6iDBWp6ClU8-i2-OSXKbtO1uHm6_1oda_2egpvgYCvaix8UxUqUryqZj-Pw3G4m771Ev5-4kL46Y) (Paper)
 - [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
 
@@ -60,6 +60,9 @@
 - [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
 
 ### Multivariate Adaptive Regression Splines
+- [Multivariate Adaptive Regression Splines](https://projecteuclid.org/download/pdf_1/euclid.aos/1176347963) (Friedman's original paper)
+- [APM: Ch. 7.2 Multivariate Adaptive Regression Splines](http://appliedpredictivemodeling.com/) (Book chapter)
+- [ESL: Ch. 9.4 Multivariate Adaptive Regression Splines](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book chapter)
 - [Notes on the __earth__ package](http://www.milbo.org/doc/earth-notes.pdf) (Paper)
 
 ### Random Forests
@@ -94,7 +97,7 @@
 ### Feature Selection
 
 - [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11/v36i11.pdf) (Paper)
-- [APM: Ch. 19 An Introduction to Feature Selection](http://appliedpredictivemodeling.com/) (Book)
+- [APM: Ch. 19 An Introduction to Feature Selection](http://appliedpredictivemodeling.com/) (Book chapter)
 
 ### Machine Learning Interpretability
 
