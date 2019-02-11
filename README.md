@@ -65,6 +65,11 @@
 - [ESL: Ch. 9.4 Multivariate Adaptive Regression Splines](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book chapter)
 - [Notes on the __earth__ package](http://www.milbo.org/doc/earth-notes.pdf) (Paper)
 
+### K-Nearest Neighbor
+- [k-Nearest neighbour classifiers](https://www.researchgate.net/profile/Sarah_Delany/publication/228686398_k-Nearest_neighbour_classifiers/links/0fcfd50d0c1d1f41ad000000/k-Nearest-neighbour-classifiers.pdf) (Paper)
+- [APM: Ch. 7.4 & 13.5 K-Nearest Neighbors](http://appliedpredictivemodeling.com/) (Book chapter)
+- [ESL: Ch. 13.3 k-Nearest-Neighbor Classifiers](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book chapter)
+
 ### Random Forests
 
 - [Random Forests - Leo Breiman's original research paper](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf) (Paper)
