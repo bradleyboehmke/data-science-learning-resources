@@ -82,6 +82,10 @@
 - [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
 - [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (Paper)
 
+### Model Stacking / Super Learners
+- [Stacked Regressions](http://statistics.berkeley.edu/sites/default/files/tech-reports/367.pdf) (Paper)
+- [Super Learner](https://www.degruyter.com/view/j/sagmb.2007.6.issue-1/sagmb.2007.6.1.1309/sagmb.2007.6.1.1309.xml) (Paper)
+
 ### Natural Language Processing / Text Mining
 
 - [Text Mining with R](https://www.tidytextmining.com/) (Book)
