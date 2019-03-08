@@ -72,6 +72,7 @@
 
 ### Random Forests
 
+- [An Introduction to Recursive Partitioning Using the RPART Routines](https://cran.r-project.org/web/packages/rpart/vignettes/longintro.pdf) (Paper)
 - [Random Forests - Leo Breiman's original research paper](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf) (Paper)
 
 ### Gradient Boosting Machines
