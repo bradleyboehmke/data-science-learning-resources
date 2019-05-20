@@ -14,6 +14,7 @@
 ### Python
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Functional Programming
 
