@@ -34,7 +34,8 @@
 ### Style Guide & Readable Code
 
 - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques-ebook/dp/B0064CZ1XE) (Book)
-- [The Tidyverse Style Guide](https://style.tidyverse.org/) (Online Book)
+- [The Tidyverse Style Guide](https://style.tidyverse.org/) (Online book)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (Online guide)
 
 ## Machine Learning
 
