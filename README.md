@@ -48,7 +48,7 @@
 - [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894) (Book)
 - [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 - [Deep Learning](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book)
-- Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) [GitHub](https://github.com/ageron/handson-ml))
+- Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub](https://github.com/ageron/handson-ml))
 
 ### Unsupervised Modeling
 
@@ -56,7 +56,7 @@
 - [A K-Means Clustering Algorithm](https://www.jstor.org/stable/pdf/2346830.pdf?casa_token=DyTW0ZLNC4gAAAAA:VNX2TGwDfcs5foMa96ZxnOM2mjaQU1WuCOLL8qF6iDBWp6ClU8-i2-OSXKbtO1uHm6_1oda_2egpvgYCvaix8UxUqUryqZj-Pw3G4m771Ev5-4kL46Y) (Paper)
 - [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
 - [Deep Learning Ch. 15 Autoencoders](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book chapter)
-- Hands-On Mach. Learning with Scikit-Learn Ch. 15 Autoencoders ([Book chapter](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) [GitHub resource](https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb))
+- Hands-On Mach. Learning with Scikit-Learn Ch. 15 Autoencoders ([Book chapter](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub resource](https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb))
 - [Sparse autoencoder](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf) (Andrew Ng CS294A lecture notes)
 
 ### A/B Testing
