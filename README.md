@@ -17,6 +17,10 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
 
+### Command Line
+
+- [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
+
 ### Functional Programming
 
 - [An Introduction to the Basic Principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84) (Online article)
