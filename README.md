@@ -16,6 +16,7 @@
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
+- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 
 ### Command Line
 
