@@ -71,6 +71,8 @@
 - [Peaking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) (Paper)
 - [Multi-armed Bandit](https://support.google.com/analytics/answer/2844870?hl=en&ref_topic=1745207) (Online tutorial)
 - [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
+- [Predicting Search Satisfaction Metrics with Interleaved Comparisons](https://www.microsoft.com/en-us/research/publication/predicting-search-satisfaction-metrics-with-interleaved-comparisons/) (Paper)
+- [Evaluating Retrieval Performance using Clickthrough Data](https://www.cs.cornell.edu/people/tj/publications/joachims_02b.pdf) (Paper)
 
 ### Multivariate Adaptive Regression Splines
 - [Multivariate Adaptive Regression Splines](https://projecteuclid.org/download/pdf_1/euclid.aos/1176347963) (Friedman's original paper)
