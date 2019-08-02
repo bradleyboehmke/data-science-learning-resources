@@ -37,11 +37,13 @@
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
 - [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Online tutorial)
 
-### Style Guide & Readable Code
+### Style Guide, Readability, Best Practices
 
 - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques-ebook/dp/B0064CZ1XE) (Book)
 - [The Tidyverse Style Guide](https://style.tidyverse.org/) (Online book)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (Online guide)
+- [Guidelines for code reviews](https://github.com/lyst/MakingLyst/tree/master/code-reviews) (README)
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) (Blog post)
 
 ## Machine Learning
 
