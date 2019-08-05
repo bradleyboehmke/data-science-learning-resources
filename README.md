@@ -142,6 +142,7 @@
 - [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909) (Paper)
 - [Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269) (Paper)
 - [Please Stop Permuting Features: An Explanation and Alternatives](https://arxiv.org/abs/1905.03151) (Paper)
+- [A Stratification Approach to Partial Dependence for Codependent Variables](https://arxiv.org/abs/1907.06698) (Paper)
 
 ### Auto ML
 
