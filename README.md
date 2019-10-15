@@ -22,6 +22,11 @@
 
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
 
+### Containers
+
+- [Docker tips & tricks or just useful commands](https://medium.com/@clasikas/docker-tips-tricks-or-just-useful-commands-6e1fd8220450) (Online article)
+- [Rocker: R configurations for Docker](https://github.com/rocker-org/rocker) (GitHub resources)
+
 ### Functional Programming
 
 - [An Introduction to the Basic Principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84) (Online article)
