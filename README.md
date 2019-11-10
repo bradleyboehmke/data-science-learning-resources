@@ -62,6 +62,7 @@
 - [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 - [Deep Learning](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book)
 - Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub](https://github.com/ageron/handson-ml))
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (MOOC)
 
 ### Unsupervised Modeling
 
@@ -105,6 +106,14 @@
 - [Mark Landry - Gradient Boosting Method and Random Forest at H2O World 2015](https://www.youtube.com/watch?v=9wn1f-30_ZY) (YouTube)
 - [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
 - [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (Paper)
+
+### Deep Learning
+- [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?keywords=deep+learning+with+r&qid=1573422070&sr=8-3) (Book)
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_3?crid=1C568FMWA1B0C&keywords=deep+learning+with+python&qid=1573422053&sprefix=deep+learning+with+%2Caps%2C154&sr=8-3) (Book)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (MOOC)
+- [keras.rstudio.com](https://keras.rstudio.com/) (Online articles & tutorials)
+- [blogs.rstudio.com/tensorflow](https://blogs.rstudio.com/tensorflow/) (Online articles & tutorials)
+
 
 ### Ensembles / Model Stacking / Super Learners
 - [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
