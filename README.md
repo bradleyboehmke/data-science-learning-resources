@@ -113,6 +113,7 @@
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (MOOC)
 - [keras.rstudio.com](https://keras.rstudio.com/) (Online articles & tutorials)
 - [blogs.rstudio.com/tensorflow](https://blogs.rstudio.com/tensorflow/) (Online articles & tutorials)
+- [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) (Online tutorial)
 
 
 ### Ensembles / Model Stacking / Super Learners
