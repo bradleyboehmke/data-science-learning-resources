@@ -113,7 +113,6 @@
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (MOOC)
 - [keras.rstudio.com](https://keras.rstudio.com/) (Online articles & tutorials)
 - [blogs.rstudio.com/tensorflow](https://blogs.rstudio.com/tensorflow/) (Online articles & tutorials)
-- [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) (Online tutorial)
 
 
 ### Ensembles / Model Stacking / Super Learners
@@ -125,6 +124,8 @@
 
 - [Text Mining with R](https://www.tidytextmining.com/) (Book)
 - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (Paper)
+- [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) (Online tutorial)
+- [Sebastian Ruder's series on Word Embeddings](https://ruder.io/word-embeddings-1/index.html) (Online articles & tutorials)
 
 ### Tuning
 
