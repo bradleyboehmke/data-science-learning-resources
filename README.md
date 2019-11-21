@@ -146,6 +146,7 @@
 
 ### Machine Learning Interpretability
 
+- [Scott Lundberg's presentation on SHAP](https://youtu.be/B-c8tIgchu0)
 - [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources) (GitHub resources)
 - [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability) (GitHub resources)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (Book)
