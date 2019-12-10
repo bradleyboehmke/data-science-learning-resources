@@ -126,6 +126,7 @@
 - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (Paper)
 - [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) (Online tutorial)
 - [Sebastian Ruder's series on Word Embeddings](https://ruder.io/word-embeddings-1/index.html) (Online articles & tutorials)
+- [Neural Models for Information Retrieval](https://arxiv.org/pdf/1705.01509.pdf)
 
 ### Tuning
 
