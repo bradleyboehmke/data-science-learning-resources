@@ -113,6 +113,10 @@
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (MOOC)
 - [keras.rstudio.com](https://keras.rstudio.com/) (Online articles & tutorials)
 - [blogs.rstudio.com/tensorflow](https://blogs.rstudio.com/tensorflow/) (Online articles & tutorials)
+- [Illustrated Guide to Recurrent Neural Networks](http://www.kurious.pub/blog/Illustrated-Guide-to-Recurrent-Neural-Networks-4) (Blog)
+- [Illustrated Guide on Vanishing Gradients](http://www.kurious.pub/blog/Illustrated-Guide-on-Vanishing-Gradients-5) (Blog)
+- [Illustrated Guide to LSTMs and GRUs](http://www.kurious.pub/blog/Illustrated-Guide-to-LSTMs-and-GRUs-A-step-by-step-explanation-6) (Blog)
+- [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
 
 
 ### Ensembles / Model Stacking / Super Learners
