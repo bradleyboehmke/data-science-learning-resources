@@ -117,7 +117,8 @@
 - [Illustrated Guide on Vanishing Gradients](http://www.kurious.pub/blog/Illustrated-Guide-on-Vanishing-Gradients-5) (Blog)
 - [Illustrated Guide to LSTMs and GRUs](http://www.kurious.pub/blog/Illustrated-Guide-to-LSTMs-and-GRUs-A-step-by-step-explanation-6) (Blog)
 - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
-
+- [Rohan & Lenny: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) (Blog)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
 
 ### Ensembles / Model Stacking / Super Learners
 - [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
