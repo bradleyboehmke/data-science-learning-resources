@@ -24,6 +24,12 @@
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 - [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY/ref=sr_1_1_sspa?keywords=Python+Tricks+the+book&qid=1578174695&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUExRQTlHODMzWTg3JmVuY3J5cHRlZElkPUEwOTQ5OTcxWENQRDZUVjdUVVhGJmVuY3J5cHRlZEFkSWQ9QTA0NzQ4NDMxRTdONktVUVZUWTZGJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) (Book)
 
+### Spark
+
+- [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/ref=sr_1_1?keywords=spark+oreilly&qid=1578175560&s=books&sr=1-1) (Book)
+- [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_2?keywords=spark+oreilly&qid=1578175595&s=books&sr=1-2) (Book)
+- [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](https://www.amazon.com/Mastering-Spark-Complete-Large-Scale-Analysis/dp/149204637X/ref=sr_1_1?crid=3TYKU59XRH5HV&keywords=mastering+spark+with+r&qid=1578175640&s=books&sprefix=mastering+spark+%2Cstripbooks%2C152&sr=1-1) (Book)
+
 ### Command Line
 
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
