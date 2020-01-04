@@ -10,6 +10,11 @@
 
 - [R for Data Science](https://r4ds.had.co.nz/) (Book)
 - [Advanced R](https://adv-r.hadley.nz/) (Book)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (Book)
+- [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) (Book)
+- [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
+- [Automated Data Collection with R](https://www.amazon.com/Automated-Data-Collection-Practical-Scraping-ebook/dp/B014T25K5O/ref=sr_1_2?keywords=Automated+Data+Collection+with+R&qid=1578174122&s=books&sr=1-2) (Book)
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/) (Book)
 
 ### Python
 
@@ -17,6 +22,7 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
+- [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY/ref=sr_1_1_sspa?keywords=Python+Tricks+the+book&qid=1578174695&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUExRQTlHODMzWTg3JmVuY3J5cHRlZElkPUEwOTQ5OTcxWENQRDZUVjdUVVhGJmVuY3J5cHRlZEFkSWQ9QTA0NzQ4NDMxRTdONktVUVZUWTZGJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) (Book)
 
 ### Command Line
 
@@ -50,6 +56,11 @@
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (Online guide)
 - [Guidelines for code reviews](https://github.com/lyst/MakingLyst/tree/master/code-reviews) (README)
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) (Blog post)
+
+### Testing
+
+- [Testing R Code](https://www.amazon.com/Testing-Code-Chapman-Hall-CRC/dp/1498763650) (Book)
+- [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
 
 ## Machine Learning
 
