@@ -178,6 +178,7 @@
 
 - [The Design and Analysis of Benchmark Experiments](https://www.jstor.org/stable/pdf/27594139.pdf) (Paper)
 - [Szilard Pafka's ML Benchmarking Research](https://github.com/szilard/benchm-ml) (GitHub resources)
+- [Data-driven advice for applying machine learning to bioinformatics problems](https://arxiv.org/pdf/1708.05070.pdf) (Paper)
 
 ### Resampling Procedures
 
