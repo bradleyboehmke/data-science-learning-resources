@@ -73,6 +73,7 @@
 - [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
 - [Deep Learning](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book)
 - Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub](https://github.com/ageron/handson-ml))
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (Book)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (MOOC)
 
 ### Unsupervised Modeling
