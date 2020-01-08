@@ -140,6 +140,7 @@
 - [Revisiting Small Batch Training for Deep Neural Networks](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Revisiting%20Small%20Batch%20Training%20for%20Deep%20Neural%20Networks.pdf) (Paper)
 - [On Loss Functions for Deep Neural Networks in Classification](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/On%20Loss%20Functions%20for%20Deep%20Neural%20Networks%20in%20Classification.pdf) (Paper)
 - [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Practical-Recommendations-for-Gradient-Based-Training-of-Deep-Architectures.pdf) (Paper)
+- [Efficient BackProp](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/efficient-backprop-lecun.pdf) (Paper)
 
 ### Ensembles / Model Stacking / Super Learners
 - [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
