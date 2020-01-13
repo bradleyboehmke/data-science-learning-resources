@@ -142,6 +142,8 @@
 - [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Practical-Recommendations-for-Gradient-Based-Training-of-Deep-Architectures.pdf) (Paper)
 - [Efficient BackProp](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/efficient-backprop-lecun.pdf) (Paper)
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/delving-deep-into-rectifiers-he-2015.pdf) (Paper)
+- [Cyclical Learning Rates for Training Neural Networks](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Cyclical-Learning-Rates-for-Training-Neural-Networks.pdf) (Paper)
+- [A Disciplined Approach to Neural Network Hyperparameters: Part 1 – Learning Rate, Batch Size, Momentum, and Weight Decay](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/nn-hyperparameter-tuning.pdf) (Paper)
 
 ### Ensembles / Model Stacking / Super Learners
 - [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
