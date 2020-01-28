@@ -209,3 +209,7 @@
 
 - [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
 - [Estimating Classification Error Rate: Repeated Cross-validation, Repeated Hold-out, and Bootstrap](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/resampling-comparison.pdf) (Paper)
+
+### Productionalization
+
+- [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744) (Paper)
