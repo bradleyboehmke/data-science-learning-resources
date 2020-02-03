@@ -193,6 +193,7 @@
 - [Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269) (Paper)
 - [Please Stop Permuting Features: An Explanation and Alternatives](https://arxiv.org/abs/1905.03151) (Paper)
 - [A Stratification Approach to Partial Dependence for Codependent Variables](https://arxiv.org/abs/1907.06698) (Paper)
+- [Explaining Machine Learning Classifiers through Diverse Counterfactual Examples](https://www.microsoft.com/en-us/research/publication/explaining-machine-learning-classifiers-through-diverse-counterfactual-examples/) (Paper)
 
 ### Auto ML
 
