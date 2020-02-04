@@ -33,6 +33,7 @@
 ### Command Line
 
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
+- [explainshell.com](https://explainshell.com/) (Online help)
 
 ### Containers
 
