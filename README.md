@@ -144,6 +144,7 @@
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/delving-deep-into-rectifiers-he-2015.pdf) (Paper)
 - [Cyclical Learning Rates for Training Neural Networks](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Cyclical-Learning-Rates-for-Training-Neural-Networks.pdf) (Paper)
 - [A Disciplined Approach to Neural Network Hyperparameters: Part 1 – Learning Rate, Batch Size, Momentum, and Weight Decay](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/nn-hyperparameter-tuning.pdf) (Paper)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf) (Paper)
 
 ### Ensembles / Model Stacking / Super Learners
 - [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
