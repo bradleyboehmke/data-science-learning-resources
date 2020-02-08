@@ -32,6 +32,7 @@
 
 ### Command Line
 
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (Online course)
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
 - [explainshell.com](https://explainshell.com/) (Online help)
 
