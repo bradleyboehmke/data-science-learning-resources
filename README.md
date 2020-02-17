@@ -33,6 +33,7 @@
 ### Command Line
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (Online course)
+- [Learning the bash Shell](https://www.amazon.com/Learning-bash-Shell-Programming-Nutshell/dp/0596009658/ref=sr_1_1?crid=3F1N8U9IGYOWA&keywords=learning+the+bash+shell%2C+3rd+edition&qid=1581944136&sprefix=learning+the+basdh%2Caps%2C345&sr=8-1) (Book)
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
 - [explainshell.com](https://explainshell.com/) (Online help)
 
