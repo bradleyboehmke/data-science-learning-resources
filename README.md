@@ -6,6 +6,13 @@
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1544653964&sr=8-1&keywords=the+pragmatic+programmer) (Book)
 
+### Python
+
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
+- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
+
 ### R
 
 - [R for Data Science](https://r4ds.had.co.nz/) (Book)
@@ -15,14 +22,6 @@
 - [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
 - [Automated Data Collection with R](https://www.amazon.com/Automated-Data-Collection-Practical-Scraping-ebook/dp/B014T25K5O/ref=sr_1_2?keywords=Automated+Data+Collection+with+R&qid=1578174122&s=books&sr=1-2) (Book)
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) (Book)
-
-### Python
-
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
-- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
-- [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY/ref=sr_1_1_sspa?keywords=Python+Tricks+the+book&qid=1578174695&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUExRQTlHODMzWTg3JmVuY3J5cHRlZElkPUEwOTQ5OTcxWENQRDZUVjdUVVhGJmVuY3J5cHRlZEFkSWQ9QTA0NzQ4NDMxRTdONktVUVZUWTZGJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) (Book)
 
 ### Spark
 
@@ -57,6 +56,12 @@
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
 - [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Online tutorial)
 - [Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/) (Online guide)
+
+### Code Packaging
+
+- [Python Packaging Authority](https://www.pypa.io/en/latest/)
+- [Python Packaging User Guide](https://packaging.python.org/)
+- [R Packages](https://r-pkgs.org/)
 
 ### Style Guide, Readability, Best Practices
 
