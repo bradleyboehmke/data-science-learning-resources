@@ -5,7 +5,7 @@
 ### General
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1544653964&sr=8-1&keywords=the+pragmatic+programmer) (Book)
-- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Book)
 
 ### Python
 
@@ -41,6 +41,7 @@
 
 - [Docker tips & tricks or just useful commands](https://medium.com/@clasikas/docker-tips-tricks-or-just-useful-commands-6e1fd8220450) (Online article)
 - [Rocker: R configurations for Docker](https://github.com/rocker-org/rocker) (GitHub resources)
+- [Docker and Python: making them play nicely and securely for Data Science and ML](https://us.pycon.org/2020/schedule/presentation/175/) (PyCon Talk)
 
 ### Functional Programming
 
@@ -76,6 +77,7 @@
 
 - [Testing R Code](https://www.amazon.com/Testing-Code-Chapman-Hall-CRC/dp/1498763650) (Book)
 - [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
+- [Multiply your Testing Effectiveness with Parameterized Testing](https://us.pycon.org/2020/schedule/presentation/172/) (PyCon Talk)
 
 ## Machine Learning
 
