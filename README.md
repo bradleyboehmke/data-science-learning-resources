@@ -78,6 +78,7 @@
 - [Testing R Code](https://www.amazon.com/Testing-Code-Chapman-Hall-CRC/dp/1498763650) (Book)
 - [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
 - [Multiply your Testing Effectiveness with Parameterized Testing](https://us.pycon.org/2020/schedule/presentation/172/) (PyCon Talk)
+- [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) (Book)
 
 ## Machine Learning
 
