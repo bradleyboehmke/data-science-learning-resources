@@ -229,3 +229,4 @@
 
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744) (Paper)
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (Paper)
+- [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) (Github resources)
