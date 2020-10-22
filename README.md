@@ -1,5 +1,11 @@
 # Data Science Learning Resources
 
+- [Programming](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#programming)
+- [Machine Learning](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
+- [Leadership & Strategy]()
+
+<br>
+
 ## Programming
 
 ### General
@@ -230,3 +236,9 @@
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744) (Paper)
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (Paper)
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) (Github resources)
+
+## Leadership & Strategy
+
+- [Platform Revolution](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427) (Book)
+- [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
+- [The Influential Product Manager: How to Lead and Launch Successful Technology Products](https://www.amazon.com/Influential-Product-Manager-Successful-Technology-ebook/dp/B07Y3ZG5NV/ref=sr_1_1_sspa?crid=2GQMTCRZIC8KP&dchild=1&keywords=the+influential+product+manager&qid=1603384998&sprefix=The+influential+product%2Cstripbooks%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVUxOVQ5RjRQRENVJmVuY3J5cHRlZElkPUEwMzIzNDAzQjlCOEdFWjZaVjA3JmVuY3J5cHRlZEFkSWQ9QTA4NTU1NzhYQzhWWUhaSUE1NFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) (Book)
