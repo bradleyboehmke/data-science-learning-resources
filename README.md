@@ -2,7 +2,7 @@
 
 - [Programming](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#programming)
 - [Machine Learning](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
-- [Leadership & Strategy]()
+- [Leadership & Strategy](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#leadership--strategy)
 
 <br>
 
