@@ -12,6 +12,7 @@
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1544653964&sr=8-1&keywords=the+pragmatic+programmer) (Book)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Book)
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html) (Online guide)
 
 ### Python
 
