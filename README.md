@@ -240,8 +240,15 @@
 
 ## Leadership & Strategy
 
+### Management & Leadership
+
+- [Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) (Blog - Stitch Fix)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?crid=1SPIBADHM1RXO&dchild=1&keywords=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&qid=1609688389&sprefix=recessed+lighting+ang%2Caps%2C185&sr=8-1) (Book)
 - [Platform Revolution](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427) (Book)
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
+
+### Product
+
 - [The Influential Product Manager: How to Lead and Launch Successful Technology Products](https://www.amazon.com/Influential-Product-Manager-Successful-Technology-ebook/dp/B07Y3ZG5NV/ref=sr_1_1_sspa?crid=2GQMTCRZIC8KP&dchild=1&keywords=the+influential+product+manager&qid=1603384998&sprefix=The+influential+product%2Cstripbooks%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVUxOVQ5RjRQRENVJmVuY3J5cHRlZElkPUEwMzIzNDAzQjlCOEdFWjZaVjA3JmVuY3J5cHRlZEFkSWQ9QTA4NTU1NzhYQzhWWUhaSUE1NFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) (Book)
 - [Mastering Product Management: A Step-by-Step Guide](https://www.amazon.com/Mastering-Product-Management-Step-Step/dp/1733839003/ref=sr_1_3?crid=PYM2K7DWJSNC&dchild=1&keywords=mastering+product+management+a+step-by-step+guide&qid=1607368736&sprefix=Mastering+Product%2Caps%2C202&sr=8-3) (Book)
-- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?crid=1SPIBADHM1RXO&dchild=1&keywords=The+Manager%27s+Path%3A+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&qid=1609688389&sprefix=recessed+lighting+ang%2Caps%2C185&sr=8-1) (Book)
+
