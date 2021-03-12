@@ -101,6 +101,7 @@
 - Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub](https://github.com/ageron/handson-ml))
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (Book)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (MOOC)
+- [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/?utm_source=convertkit&utm_medium=email&utm_campaign=Writing+Design+Docs+for+Machine+Learning+Systems%20-%205455802) (Article)
 
 ### Unsupervised Modeling
 
