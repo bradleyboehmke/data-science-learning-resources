@@ -192,6 +192,7 @@
 
 - [Feature Engineering for Machine Learning](http://shop.oreilly.com/product/0636920049081.do) (Book)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (Book)
+- [Feature Stores - A Hierarchy of Needs](https://eugeneyan.com/writing/feature-stores/?utm_source=convertkit&utm_medium=email&utm_campaign=What+You+Need+to+Know+About+the+Feature+Store+Hierarchy+of+Needs%20-%205369173) (Article)
 
 ### Feature Selection
 
