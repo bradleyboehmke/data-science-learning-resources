@@ -65,6 +65,7 @@
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Paper)
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
 - [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Online tutorial)
+- [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes) (Online tutorial)
 - [Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/) (Online guide)
 
 ### Code Packaging
