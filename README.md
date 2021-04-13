@@ -242,6 +242,7 @@
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (Paper)
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) (Github resources)
 - [Building Riviera: A Declarative Real-Time Feature Engineering Framework](https://doordash.engineering/2021/03/04/building-a-declarative-real-time-feature-engineering-framework/?utm_source=convertkit&utm_medium=email&utm_campaign=Writing+Design+Docs+for+Machine+Learning+Systems%20-%205455802) (Blog - DoorDash) 
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf) (Paper - Microsoft)
 
 ## Leadership & Strategy
 
