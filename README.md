@@ -190,6 +190,7 @@
 - [Machine Learning Benchmarks and Random Forest Regression](https://cloudfront.escholarship.org/dist/prd/content/qt35x3v9t4/qt35x3v9t4.pdf) (Paper)
 - [Random Search for Hyperparameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf) (Paper)
 - [Algorithms for Hyper-Parameter Optimization](https://papers.nips.cc/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) (Paper)
+- [Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures](https://proceedings.mlr.press/v28/bergstra13.html) (Paper)
 
 ### Feature Engineering
 
