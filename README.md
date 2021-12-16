@@ -260,6 +260,10 @@
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
 - [Living by the Code](https://www.amazon.com/Living-Code-First-Developers-Innovators/dp/1942878826/ref=sr_1_1?dchild=1&keywords=living+by+the+code&qid=1614096281&sr=8-1) (Book)
 
+### Cloud Strategy
+
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/) (Blog - Andreessen Horowitz)
+
 ### Product
 
 - [The Influential Product Manager: How to Lead and Launch Successful Technology Products](https://www.amazon.com/Influential-Product-Manager-Successful-Technology-ebook/dp/B07Y3ZG5NV/ref=sr_1_1_sspa?crid=2GQMTCRZIC8KP&dchild=1&keywords=the+influential+product+manager&qid=1603384998&sprefix=The+influential+product%2Cstripbooks%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVUxOVQ5RjRQRENVJmVuY3J5cHRlZElkPUEwMzIzNDAzQjlCOEdFWjZaVjA3JmVuY3J5cHRlZEFkSWQ9QTA4NTU1NzhYQzhWWUhaSUE1NFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) (Book)
