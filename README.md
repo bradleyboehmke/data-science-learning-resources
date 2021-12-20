@@ -263,6 +263,7 @@
 ### Cloud Strategy
 
 - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/) (Blog - Andreessen Horowitz)
+- [From Cloud Computing to Sky Computing](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf) (Paper)
 
 ### Product
 
