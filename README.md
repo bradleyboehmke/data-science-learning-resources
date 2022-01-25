@@ -147,6 +147,9 @@
 - [Mark Landry - Gradient Boosting Method and Random Forest at H2O World 2015](https://www.youtube.com/watch?v=9wn1f-30_ZY) (YouTube)
 - [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
 - [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (Paper)
+- [How to Train XGBoost With Spark](https://databricks.com/blog/2020/11/16/how-to-train-xgboost-with-spark.html) (Blog)
+- [Training XGBoost4J-Spark with PySpark](https://databricks.com/notebooks/xgboost/xgboost4j-spark-example.html) (Tutorial notebook)
+- [Use XGBoost on Databricks](https://docs.databricks.com/applications/machine-learning/train-model/xgboost.html) (Tutorial notebooks)
 
 ### Deep Learning
 - [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?keywords=deep+learning+with+r&qid=1573422070&sr=8-3) (Book)
