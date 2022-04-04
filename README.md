@@ -238,6 +238,7 @@
 
 ### Resampling Procedures
 
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808) (Paper)
 - [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
 - [Estimating Classification Error Rate: Repeated Cross-validation, Repeated Hold-out, and Bootstrap](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/resampling-comparison.pdf) (Paper)
 
