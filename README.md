@@ -186,6 +186,12 @@
 - [Neural Models for Information Retrieval](https://arxiv.org/pdf/1705.01509.pdf) (Paper)
 - [Why do we use word embeddings in NLP?](https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2) (Blog)
 
+### Recommendation Systems
+
+- [Collaborative Filters for Recommendation Systems](https://course.fast.ai/videos/?lesson=6) (Fast.ai Deep Learning Lesson, starts at 1:25:00)
+- [How to Measure and Mitigate Position Bias](https://eugeneyan.com/writing/position-bias/) (Blog)
+- [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com/writing/counterfactual-evaluation/) (Blog)
+
 ### Tuning
 
 - [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/pdf/1804.03515.pdf) (Paper)
