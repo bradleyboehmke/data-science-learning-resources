@@ -21,6 +21,7 @@
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 - [Effective Python](https://effectivepython.com/) (Book)
+- [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) (Book)
 
 ### R
 
