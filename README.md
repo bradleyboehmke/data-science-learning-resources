@@ -32,6 +32,7 @@
 - [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
 - [Automated Data Collection with R](https://www.amazon.com/Automated-Data-Collection-Practical-Scraping-ebook/dp/B014T25K5O/ref=sr_1_2?keywords=Automated+Data+Collection+with+R&qid=1578174122&s=books&sr=1-2) (Book)
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) (Book)
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) (Book)
 
 ### Spark
 
