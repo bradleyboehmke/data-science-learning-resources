@@ -281,3 +281,11 @@
 - [The Influential Product Manager: How to Lead and Launch Successful Technology Products](https://www.amazon.com/Influential-Product-Manager-Successful-Technology-ebook/dp/B07Y3ZG5NV/ref=sr_1_1_sspa?crid=2GQMTCRZIC8KP&dchild=1&keywords=the+influential+product+manager&qid=1603384998&sprefix=The+influential+product%2Cstripbooks%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVUxOVQ5RjRQRENVJmVuY3J5cHRlZElkPUEwMzIzNDAzQjlCOEdFWjZaVjA3JmVuY3J5cHRlZEFkSWQ9QTA4NTU1NzhYQzhWWUhaSUE1NFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) (Book)
 - [Mastering Product Management: A Step-by-Step Guide](https://www.amazon.com/Mastering-Product-Management-Step-Step/dp/1733839003/ref=sr_1_3?crid=PYM2K7DWJSNC&dchild=1&keywords=mastering+product+management+a+step-by-step+guide&qid=1607368736&sprefix=Mastering+Product%2Caps%2C202&sr=8-3) (Book)
 
+### Performance Reviews
+
+- [Preparing for performance reviews ahead of time](https://newsletter.pragmaticengineer.com/p/preparing-for-performance-reviews) (Blog)
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) (Blog + template)
+- [Don't do invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM&list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV&index=30) (Presentation)
+- [Work log template for Software Engineers](https://docs.google.com/document/d/10szdym6SXJ_3GH6-nefOOfzEX1lYlpSu74MAFbpX2t0/edit) (Template)
+- [Sending weekly 5-15 updates](https://lethain.com/weekly-updates/) (Blog)
+
