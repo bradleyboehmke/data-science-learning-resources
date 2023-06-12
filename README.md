@@ -21,6 +21,7 @@
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 - [Effective Python](https://effectivepython.com/) (Book)
+- [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) (Book)
 
 ### R
 
@@ -31,12 +32,14 @@
 - [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
 - [Automated Data Collection with R](https://www.amazon.com/Automated-Data-Collection-Practical-Scraping-ebook/dp/B014T25K5O/ref=sr_1_2?keywords=Automated+Data+Collection+with+R&qid=1578174122&s=books&sr=1-2) (Book)
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) (Book)
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) (Book)
 
 ### Spark
 
 - [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/ref=sr_1_1?keywords=spark+oreilly&qid=1578175560&s=books&sr=1-1) (Book)
 - [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_2?keywords=spark+oreilly&qid=1578175595&s=books&sr=1-2) (Book)
 - [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](https://www.amazon.com/Mastering-Spark-Complete-Large-Scale-Analysis/dp/149204637X/ref=sr_1_1?crid=3TYKU59XRH5HV&keywords=mastering+spark+with+r&qid=1578175640&s=books&sprefix=mastering+spark+%2Cstripbooks%2C152&sr=1-1) (Book)
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) (Book)
 
 ### Command Line
 
