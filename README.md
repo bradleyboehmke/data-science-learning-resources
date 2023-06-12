@@ -272,6 +272,7 @@
 - [Platform Revolution](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427) (Book)
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
 - [Living by the Code](https://www.amazon.com/Living-Code-First-Developers-Innovators/dp/1942878826/ref=sr_1_1?dchild=1&keywords=living+by+the+code&qid=1614096281&sr=8-1) (Book)
+- [The Best of Both Worlds: Unlocking the Potential of Hybrid Work for Software Engineers](https://www.microsoft.com/en-us/research/publication/the-best-of-both-worlds-unlocking-the-potential-of-hybrid-work-for-software-engineers/) (Paper)
 
 ### Cloud Strategy
 
