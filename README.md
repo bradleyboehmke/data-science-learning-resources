@@ -259,6 +259,10 @@
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) (Paper - Google)
 - [Designing Machine Learning Systems](https://a.co/d/fcDGU9O) (Book)
 
+### Model Monitoring
+
+- [Data Management for ML-based Analytics and Beyond](https://ddkang.github.io/papers/2023/jds.pdf) (Paper) 
+
 ## Leadership & Strategy
 
 ### Management & Leadership
