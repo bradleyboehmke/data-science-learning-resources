@@ -258,6 +258,7 @@
 - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf) (Paper - Microsoft)
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/) (Paper - Google)
 - [Designing Machine Learning Systems](https://a.co/d/fcDGU9O) (Book)
+- [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) (Paper)
 
 ### Model Monitoring
 
