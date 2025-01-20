@@ -185,6 +185,7 @@
 - [Sebastian Ruder's series on Word Embeddings](https://ruder.io/word-embeddings-1/index.html) (Online articles & tutorials)
 - [Neural Models for Information Retrieval](https://arxiv.org/pdf/1705.01509.pdf) (Paper)
 - [Why do we use word embeddings in NLP?](https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2) (Blog)
+- [What is Natural Language Processing (NLP)?](https://www.appliedaicourse.com/blog/what-is-natural-language-processing/) (Blog)
 
 ### Recommendation Systems
 
